@@ -1,0 +1,22 @@
+{
+  "name": "heart-data-parser",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Umar Hansa <umar.hansa@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "client/js/vendor",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "d3": "^4.2.2"
+  },
+  "private": true
+}
